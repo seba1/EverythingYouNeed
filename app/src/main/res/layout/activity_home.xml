@@ -28,13 +28,5 @@
         android:layout_marginTop="69dp"
         android:onClick="initiateFuelCalculator"/>
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/home_btnSalCalc"
-        android:id="@+id/salCalc"
-        android:layout_below="@+id/buttonFuelCalc"
-        android:layout_centerHorizontal="true" />
-
 
 </RelativeLayout>
