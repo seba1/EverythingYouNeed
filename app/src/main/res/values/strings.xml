@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EverythingYouNeed</string>
+    <string name="homeTitle">Everything You Need</string>
+    <string name="home_btnFuelCalc">Fuel Calculator</string>
+    <string name="home_btnSalCalc">Salary Calculator</string>
+
+</resources>
