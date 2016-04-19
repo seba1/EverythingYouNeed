@@ -43,6 +43,10 @@ public class FuelCalculateActivity extends AppCompatActivity {
         }
         if(TextUtils.isEmpty(avgFuelCost)) {
             aFL.setError("Please enter valid value");
+            //return //tutaj nie dalem returna zeby pokazalo oba errory na screenie
+        }
+        if(TextUtils.isEmpty(kmPerDay)) {
+            aFL.setError("Please enter valid value");
             return;
         }
 
